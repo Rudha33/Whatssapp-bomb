@@ -6,8 +6,8 @@ the phone's processor and causing the messaging app to crash.
 
 execute the code 
 
-print("ŕ̷̡̧̛̛̞̱̠͎̳̥̠̪͍̥̖̗̪̭͔̫̜̫͉̜͇̙͕̓̍̑͘͜͠ͅų̴̼̘͍̻̩̱̻̜̥̪̖͔̰̻̦̺͒͘ḋ̴̨̡̮̲̦͙̝̟̪̞̭̬͚̱̣̣̰̺̮͖̂̂͆͂̀͛͂͑̌̈͋͛̿͂̔̊̊͂̈͠h̸̨̢̯̳̝̻̺̩͍̰͙͖̯̳͇͎͔̤͖̼̠̭̩͍̭͇̲̳̞̣̘̃̓́̉͜͜ͅā̵͔͇̟̥̼̗͈͈͈̀̌̇̔̎̋̂̂̚3̴̹̰̭͕̙͚̝͇̻̠̺̮͈̲̯̱̹̪͚͉͎̪͎̥̯̳̙͉̟͋̉͛̀̉̽́̈͑̂̅̏̔̀͂͋͒͌̾͆̒̒̕͜͜3̵̨̧̢̙͙̬̯̤͍̳͙̙̮̞̙̳͉̹̱̭̯̪̝͚̥̬͚̰̳͑̌́̇̉̌̄̾̆̎̉̏̅̀̈́̎͌̈́̈̂͑͌̿̂̍̿͊́̌͌̚͘͜͝ͅ  - https://github.com/Rudha33" * 10000)
+print("rudha - https://github.com/Rudha33" * 10000)
 
-Next you gonna change your text and put massive links. change the number "the 10000" to you wanted number, the printed message you gonna send to you'r victim!
+Next you gonna change you'r text and put massive links. change the number "the 10000" to you wanted number, the printed message you gonna send to you'r victim!
 
 MADE BY RUDHA33
